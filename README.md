@@ -45,13 +45,14 @@ cd LLM_Medical-Chatbot
 ### 3. Download Large Files
 This repository does **not** include large files (models, data, vector DB) due to GitHub size limits.
 
-#### Download links:
-- **Models:** [Google Drive/Dropbox/Hugging Face link here]
-- **Processed Data:** [Google Drive/Dropbox/Hugging Face link here]
-- **Qdrant Vector DB:** [Google Drive/Dropbox/Hugging Face link here]
+#### Download links (all large files):
+- **Hugging Face Repository:** [https://huggingface.co/IshaanPotle27/llm_medical_chatbot/tree/main/.](https://huggingface.co/IshaanPotle27/llm_medical_chatbot/tree/main/.)
+  - **Models:** Download from the `models/` folder
+  - **Processed Data:** Download from the `data/` folder
+  - **Qdrant Vector DB:** Download from the `qdrant_data/` folder
 
 > **Instructions:**
-> 1. Download the files from the above links.
+> 1. Download the files from the above Hugging Face link.
 > 2. Place them in the corresponding folders (`models/`, `data/`, `qdrant_data/`).
 
 ### 4. Run the Backend
